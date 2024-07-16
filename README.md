@@ -5,15 +5,27 @@ This project involves analyzing and predicting health insurance costs based on v
 
 # Column Description
 . age: The age of the policyholder in years.
+
 . sex: The gender of the policyholder (male or female).
+
 . bmi: Body Mass Index of the policyholder, a measure of body fat based on height and weight.
+
 . children: The number of children/dependents covered by the insurance policy.
+
 . smoker: Indicates if the policyholder is a smoker (yes or no).
+
 . Claim_Amount: The amount claimed by the policyholder.
+
 . past_consultations: The number of past medical consultations the policyholder has had.
+
 . num_of_steps: The average number of steps the policyholder takes daily.
+
 . Hospital_expenditure: The total expenditure on hospital visits and treatments by the policyholder.
+
 . NUmber_of_past_hospitalizations: The number of times the policyholder has been hospitalized in the past.
+
 . Anual_Salary: The annual salary of the policyholder.
+
 . region: The geographic region where the policyholder resides.
+
 . charges: The insurance charges billed to the policyholder.
